@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\WebPage.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Entities\\WebPage.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\WebPage.cs",
+              "RelativeToolTip": "homework_class02\\Entities\\WebPage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:44:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Entities\\Document.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Document.cs",
+              "RelativeToolTip": "homework_class02\\Entities\\Document.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:42:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\ISearchable.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Interfaces\\ISearchable.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\ISearchable.cs",
+              "RelativeToolTip": "homework_class02\\Interfaces\\ISearchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:38:31.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Program.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Program.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Program.cs",
+              "RelativeToolTip": "homework_class02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:37:00.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
