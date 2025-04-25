@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\",
+  "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|c:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|d:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E33F7E5-F458-4F52-85C5-D04C9A0522C8}|homework_class02\\homework_class02.csproj|solutionrelative:homework_class02\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +46,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Entities\\Shape.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Shape.cs",
+              "RelativeToolTip": "homework_class02\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:36:50.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Triangle.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Entities\\Triangle.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Triangle.cs",
+              "RelativeToolTip": "homework_class02\\Entities\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:08:34.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Entities\\Circle.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Circle.cs",
+              "RelativeToolTip": "homework_class02\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:06:45.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Entities\\Rectangle.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "homework_class02\\Entities\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:58:42.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "homework_class02\\Interfaces\\IShape.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "homework_class02\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:57:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WebPage.cs",
-              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\WebPage.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\WebPage.cs",
               "RelativeDocumentMoniker": "homework_class02\\Entities\\WebPage.cs",
-              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\WebPage.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\WebPage.cs",
               "RelativeToolTip": "homework_class02\\Entities\\WebPage.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T19:44:07.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Document.cs",
-              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Document.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Document.cs",
               "RelativeDocumentMoniker": "homework_class02\\Entities\\Document.cs",
-              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Document.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Entities\\Document.cs",
               "RelativeToolTip": "homework_class02\\Entities\\Document.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,27 +140,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ISearchable.cs",
-              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\ISearchable.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\ISearchable.cs",
               "RelativeDocumentMoniker": "homework_class02\\Interfaces\\ISearchable.cs",
-              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\ISearchable.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Interfaces\\ISearchable.cs",
               "RelativeToolTip": "homework_class02\\Interfaces\\ISearchable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:38:31.808Z"
+              "WhenOpened": "2025-04-24T19:38:31.808Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Program.cs",
               "RelativeDocumentMoniker": "homework_class02\\Program.cs",
-              "ToolTip": "C:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class02\\homework_class02\\homework_class02\\Program.cs",
               "RelativeToolTip": "homework_class02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T19:37:00.896Z"
+              "WhenOpened": "2025-04-24T19:37:00.896Z",
+              "EditorCaption": ""
             }
           ]
         }
