@@ -2,37 +2,29 @@
 
 namespace homework_class02.Entities
 {
-    public class Circle : Shape, IShape
+    public class Circle : Shape
     {
         public double Radius { get; set; }
+
         public Circle(double radius)
         {
             Radius = radius;
         }
-        public void GetArea()
+
+        public override void GetArea()
         {
             Console.WriteLine($"Area of the circle: {Math.PI * Math.Pow(Radius, 2)}");
         }
 
-        public override int CalculateArea()
+        public override void CalculateArea()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Calculating area... {Math.PI * Math.Pow(Radius, 2)}");
         }
 
-        public override int CalculatePerimeter()
+        public override void CalculatePerimeter()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Perimeter of the circle: {2 * Math.PI * Radius}");
         }
     }
-    //{
-    //    public double Radius { get; set; }
-    //    public Circle(double radius)
-    //    {
-    //        Radius = radius;
-    //    }
-    //    public void GetArea()
-    //    {
-    //        Console.WriteLine($"Area of the circle: {Math.PI * Math.Pow(Radius, 2)}");
-    //    }
-    //}
+   
 }

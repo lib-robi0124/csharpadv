@@ -17,6 +17,7 @@ page1.Search("webpage");
 Console.ResetColor();
 
 #endregion
+
 #region Task 2
 
 Rectangle rectangle = new Rectangle(5, 10);
@@ -29,22 +30,47 @@ Circle circle = new Circle(7);
 Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("area of circle");
 circle.GetArea();
+Console.ResetColor();
+Console.ForegroundColor = ConsoleColor.Yellow;
 circle.CalculateArea();
 Console.ResetColor();
-Console.ForegroundColor = ConsoleColor.DarkCyan;
+
+Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("perimeter od circle");
 circle.CalculatePerimeter();
 Console.ResetColor();
 
+
 Triangle triangle = new Triangle(5, 10);
-Console.ForegroundColor = ConsoleColor.Magenta;
+Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("area of triangle");
 triangle.GetArea();
+Console.ResetColor();
+Console.ForegroundColor = ConsoleColor.Yellow;
+triangle.CalculateArea();
+Console.ResetColor();
+Console.ForegroundColor = ConsoleColor.Magenta;
+Console.WriteLine("perimeter od triangle");
+triangle.CalculatePerimeter();
 Console.ResetColor();
 
 #endregion
 
-#region Task 3
+#region Task 4
+
+Manager manager = new Manager("Robert Ristovski", "ITManager", 1500, "IT");
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine($"Manager: {manager.FullName}, Position: {manager.Position}, Salary: {manager.Salary}, Department: {manager.Department}");
+manager.CalculateSalary();
+manager.DisplayInfo();
+Console.ResetColor();
+
+Programmer programmer = new Programmer("Ivica Stanoevski", "ITProgrammer", 1000, "C#");
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine($"Programmer: {programmer.FullName}, Position: {programmer.Position}, Salary: {programmer.Salary}, Programming Language: {programmer.ProgrammingLanguage}");
+programmer.CalculateSalary();
+programmer.DisplayInfo();
+Console.ResetColor();
 
 
 

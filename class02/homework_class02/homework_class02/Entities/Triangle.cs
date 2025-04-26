@@ -2,7 +2,7 @@
 
 namespace homework_class02.Entities
 {
-    public class Triangle : IShape
+    public class Triangle : Shape
     {
         public double Base { get; set; }
         public double Height { get; set; }
@@ -11,7 +11,19 @@ namespace homework_class02.Entities
             Base = baseLength;
             Height = height;
         }
-        public void GetArea()
+       
+
+        public override void CalculateArea()
+        {
+            Console.WriteLine($"CalculateArea of the triangle: {0.5 * Base * Height}");
+        }
+
+        public override void CalculatePerimeter()
+        {
+            Console.WriteLine($"CalculatePerimeter of the triangle: {Base + Math.Sqrt(Base * Base + Height * Height) * 2}");
+        }
+
+        public override void GetArea()
         {
             Console.WriteLine($"Area of the triangle: {0.5 * Base * Height}");
         }
