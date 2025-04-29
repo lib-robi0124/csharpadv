@@ -1,4 +1,4 @@
-﻿namespace staticclasses.Entitis._Helpers
+﻿namespace staticclasses.Entitis.Helpers
 {
     public class ConsoleHelper
     {

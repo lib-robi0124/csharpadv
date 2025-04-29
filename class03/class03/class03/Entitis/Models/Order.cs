@@ -1,4 +1,5 @@
-﻿using staticclasses.Entitis.Enums;
+﻿using staticclasses.Entitis.Helpers;
+using staticclasses.Entitis.Enums;
 
 namespace staticclasses.Entitis.Models
 {
@@ -9,14 +10,16 @@ namespace staticclasses.Entitis.Models
         public string Description { get; set; }
         public OrderStatus Status { get; set; }
 
-        public Order(int id, string title, string description, OrderStatus status) : base(id)
+        public Order(int id, string title, string description, OrderStatus status = OrderStatus.Processing) : base(id)
         {
-            Title = title; Description = description; Status = status;
+            Title = title; 
+            Description = description; 
+            Status = status;
         }
 
         public string GetOrderInfo()
         {
-            return $"{Title} - {Description}";
+            return $"{TextHelper.CapitalizeFirstLetter}{Title} - {Description}";
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.AssemblyInfoInputs.cache
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.AssemblyInfo.cs
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.csproj.CoreCompileInputs.cache
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.sourcelink.json
+D:\csharpadv\class03\class03\class03\bin\Debug\net8.0\staticclasses.exe
+D:\csharpadv\class03\class03\class03\bin\Debug\net8.0\staticclasses.deps.json
+D:\csharpadv\class03\class03\class03\bin\Debug\net8.0\staticclasses.runtimeconfig.json
+D:\csharpadv\class03\class03\class03\bin\Debug\net8.0\staticclasses.dll
+D:\csharpadv\class03\class03\class03\bin\Debug\net8.0\staticclasses.pdb
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.dll
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\refint\staticclasses.dll
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.pdb
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\staticclasses.genruntimeconfig.cache
+D:\csharpadv\class03\class03\class03\obj\Debug\net8.0\ref\staticclasses.dll
