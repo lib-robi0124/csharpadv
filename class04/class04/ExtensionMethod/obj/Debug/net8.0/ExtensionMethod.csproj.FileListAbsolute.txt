@@ -1,0 +1,15 @@
+D:\csharpadv\class04\class04\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+D:\csharpadv\class04\class04\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+D:\csharpadv\class04\class04\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+D:\csharpadv\class04\class04\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+D:\csharpadv\class04\class04\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.sourcelink.json
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+D:\csharpadv\class04\class04\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

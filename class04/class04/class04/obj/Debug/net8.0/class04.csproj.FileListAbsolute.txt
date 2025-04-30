@@ -1,0 +1,15 @@
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.AssemblyInfoInputs.cache
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.AssemblyInfo.cs
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.csproj.CoreCompileInputs.cache
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.sourcelink.json
+D:\csharpadv\class04\class04\class04\bin\Debug\net8.0\class04.exe
+D:\csharpadv\class04\class04\class04\bin\Debug\net8.0\class04.deps.json
+D:\csharpadv\class04\class04\class04\bin\Debug\net8.0\class04.runtimeconfig.json
+D:\csharpadv\class04\class04\class04\bin\Debug\net8.0\class04.dll
+D:\csharpadv\class04\class04\class04\bin\Debug\net8.0\class04.pdb
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.dll
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\refint\class04.dll
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.pdb
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\class04.genruntimeconfig.cache
+D:\csharpadv\class04\class04\class04\obj\Debug\net8.0\ref\class04.dll
