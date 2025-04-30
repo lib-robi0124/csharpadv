@@ -1,0 +1,15 @@
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.AssemblyInfo.cs
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.sourcelink.json
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\bin\Debug\net8.0\StaticClasses.exe
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\bin\Debug\net8.0\StaticClasses.deps.json
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\bin\Debug\net8.0\StaticClasses.runtimeconfig.json
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\bin\Debug\net8.0\StaticClasses.dll
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\bin\Debug\net8.0\StaticClasses.pdb
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.dll
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\refint\StaticClasses.dll
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.pdb
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\StaticClasses.genruntimeconfig.cache
+D:\qinshift\csharpadv\class03\StaticClasses\StaticClasses\obj\Debug\net8.0\ref\StaticClasses.dll
