@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD4530EA-EC97-4475-8120-CBB257C35EC7}|StaticClasses\\StaticClasses.csproj|d:\\qinshift\\csharpadv\\class03\\staticclasses\\staticclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD4530EA-EC97-4475-8120-CBB257C35EC7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD4530EA-EC97-4475-8120-CBB257C35EC7}|StaticClasses\\StaticClasses.csproj|d:\\qinshift\\csharpadv\\class03\\staticclasses\\staticclasses\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD4530EA-EC97-4475-8120-CBB257C35EC7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD4530EA-EC97-4475-8120-CBB257C35EC7}|StaticClasses\\StaticClasses.csproj|d:\\qinshift\\csharpadv\\class03\\staticclasses\\staticclasses\\ordertempdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD4530EA-EC97-4475-8120-CBB257C35EC7}|StaticClasses\\StaticClasses.csproj|solutionrelative:staticclasses\\ordertempdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7EB0989-A1D5-4DE6-8F13-EF89F55F1888}|Polymorphism\\Polymorphism.csproj|d:\\qinshift\\csharpadv\\class03\\staticclasses\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EB0989-A1D5-4DE6-8F13-EF89F55F1888}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TextHelper.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\StaticClasses\\Entities\\Helpers\\TextHelper.cs",
-              "RelativeDocumentMoniker": "StaticClasses\\Entities\\Helpers\\TextHelper.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\StaticClasses\\Entities\\Helpers\\TextHelper.cs",
-              "RelativeToolTip": "StaticClasses\\Entities\\Helpers\\TextHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:02:54.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderTempDB.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\StaticClasses\\OrderTempDB.cs",
-              "RelativeDocumentMoniker": "StaticClasses\\OrderTempDB.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\StaticClasses\\OrderTempDB.cs",
-              "RelativeToolTip": "StaticClasses\\OrderTempDB.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwCkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T13:01:40.665Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\StaticClasses\\Program.cs",
-              "RelativeDocumentMoniker": "StaticClasses\\Program.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\StaticClasses\\Program.cs",
-              "RelativeToolTip": "StaticClasses\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBgAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\StaticClasses\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T08:12:23.659Z",
+              "WhenOpened": "2025-04-30T13:33:47.71Z",
               "EditorCaption": ""
             }
           ]
