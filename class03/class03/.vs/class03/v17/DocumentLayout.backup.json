@@ -58,8 +58,7 @@
               "RelativeToolTip": "class03\\OrderTempDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:38:23.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:38:23.421Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "class03\\Entities\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:37:12.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:37:12.113Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "class03\\Entities\\Models\\Orders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:36:23.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:36:23.507Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "class03\\Entities\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:32:54.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:32:54.709Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "class03\\Entities\\Helpers\\TextHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:30:27.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:30:27.998Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "class03\\Entities\\Helpers\\ConsoleHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:29:05.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:29:05.467Z"
             },
             {
               "$type": "Document",
@@ -136,8 +130,7 @@
               "RelativeToolTip": "class03\\Entities\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:28:09.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T05:28:09.729Z"
             },
             {
               "$type": "Document",
@@ -147,7 +140,7 @@
               "RelativeDocumentMoniker": "class03\\Program.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Program.cs",
               "RelativeToolTip": "class03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:19:04.488Z",
               "EditorCaption": ""
