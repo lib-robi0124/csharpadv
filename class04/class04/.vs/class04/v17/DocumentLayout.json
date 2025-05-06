@@ -1,16 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharpadv\\class04\\class04\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|d:\\csharpadv\\class04\\class04\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|d:\\csharpadv\\class04\\class04\\extensionmethod\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class04\\class04\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringHelper.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Helpers\\StringHelper.cs",
-              "RelativeDocumentMoniker": "ExtensionMethod\\Helpers\\StringHelper.cs",
-              "ToolTip": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Helpers\\StringHelper.cs",
-              "RelativeToolTip": "ExtensionMethod\\Helpers\\StringHelper.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T17:42:27.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Program.cs",
-              "RelativeDocumentMoniker": "ExtensionMethod\\Program.cs",
-              "ToolTip": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Program.cs",
-              "RelativeToolTip": "ExtensionMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T17:37:44.985Z",
-              "EditorCaption": ""
             }
           ]
         }
