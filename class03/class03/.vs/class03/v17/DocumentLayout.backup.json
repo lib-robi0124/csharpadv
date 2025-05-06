@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class03\\class03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\ordertempdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\ordertempdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\polymorphism\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\petservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\polymorphism\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\entities\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\entities\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\polymorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\entities\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\entities\\helpers\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\entities\\helpers\\texthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\class03\\entities\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8DAB4AD-D151-455D-AFB0-50F72BA86054}|class03\\class03.csproj|solutionrelative:class03\\entities\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\polymorphism\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355CDC01-48B8-4A14-940D-8F0E5A00943F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,98 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderTempDB.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\OrderTempDB.cs",
-              "RelativeDocumentMoniker": "class03\\OrderTempDB.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\OrderTempDB.cs",
-              "RelativeToolTip": "class03\\OrderTempDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "PetService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\PetService.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\PetService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\PetService.cs",
+              "RelativeToolTip": "Polymorphism\\PetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:38:23.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "class03\\Entities\\Models\\User.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Models\\User.cs",
-              "RelativeToolTip": "class03\\Entities\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:37:12.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Models\\Orders.cs",
-              "RelativeDocumentMoniker": "class03\\Entities\\Models\\Orders.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Models\\Orders.cs",
-              "RelativeToolTip": "class03\\Entities\\Models\\Orders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:36:23.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "class03\\Entities\\Models\\BaseEntity.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "class03\\Entities\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:32:54.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TextHelper.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Helpers\\TextHelper.cs",
-              "RelativeDocumentMoniker": "class03\\Entities\\Helpers\\TextHelper.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Helpers\\TextHelper.cs",
-              "RelativeToolTip": "class03\\Entities\\Helpers\\TextHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:30:27.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConsoleHelper.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Helpers\\ConsoleHelper.cs",
-              "RelativeDocumentMoniker": "class03\\Entities\\Helpers\\ConsoleHelper.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Helpers\\ConsoleHelper.cs",
-              "RelativeToolTip": "class03\\Entities\\Helpers\\ConsoleHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:29:05.467Z"
+              "WhenOpened": "2025-05-06T06:03:41.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "class03\\Entities\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Entities\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "class03\\Entities\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Models\\Cat.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Models\\Cat.cs",
+              "RelativeToolTip": "Polymorphism\\Models\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:28:09.729Z"
+              "WhenOpened": "2025-05-06T06:02:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Models\\Dog.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Models\\Dog.cs",
+              "RelativeToolTip": "Polymorphism\\Models\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:02:08.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Models\\Pet.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Models\\Pet.cs",
+              "RelativeToolTip": "Polymorphism\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:01:06.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Program.cs",
-              "RelativeDocumentMoniker": "class03\\Program.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\class03\\Program.cs",
-              "RelativeToolTip": "class03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:19:04.488Z",
+              "WhenOpened": "2025-05-06T06:00:11.435Z",
               "EditorCaption": ""
             }
           ]
