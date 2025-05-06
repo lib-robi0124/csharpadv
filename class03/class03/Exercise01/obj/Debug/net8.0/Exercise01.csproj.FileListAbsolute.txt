@@ -1,0 +1,15 @@
+D:\qinshift\csharpadv\class03\class03\Exercise01\bin\Debug\net8.0\Exercise01.exe
+D:\qinshift\csharpadv\class03\class03\Exercise01\bin\Debug\net8.0\Exercise01.deps.json
+D:\qinshift\csharpadv\class03\class03\Exercise01\bin\Debug\net8.0\Exercise01.runtimeconfig.json
+D:\qinshift\csharpadv\class03\class03\Exercise01\bin\Debug\net8.0\Exercise01.dll
+D:\qinshift\csharpadv\class03\class03\Exercise01\bin\Debug\net8.0\Exercise01.pdb
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfo.cs
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.sourcelink.json
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.dll
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\refint\Exercise01.dll
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.pdb
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\Exercise01.genruntimeconfig.cache
+D:\qinshift\csharpadv\class03\class03\Exercise01\obj\Debug\net8.0\ref\Exercise01.dll
