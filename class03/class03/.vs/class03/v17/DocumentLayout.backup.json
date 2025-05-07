@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\qinshift\\csharpadv\\class03\\class03\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|c:\\qinshift\\csharpadv\\class03\\class03\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +22,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|c:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{3B7F68F7-8FB2-43E4-9072-45ACA23BE0AA}|Homework03\\Homework03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework03\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7F68F7-8FB2-43E4-9072-45ACA23BE0AA}|Homework03\\Homework03.csproj|solutionrelative:homework03\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7F68F7-8FB2-43E4-9072-45ACA23BE0AA}|Homework03\\Homework03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework03\\usertempdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7F68F7-8FB2-43E4-9072-45ACA23BE0AA}|Homework03\\Homework03.csproj|solutionrelative:homework03\\usertempdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7F68F7-8FB2-43E4-9072-45ACA23BE0AA}|Homework03\\Homework03.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7F68F7-8FB2-43E4-9072-45ACA23BE0AA}|Homework03\\Homework03.csproj|solutionrelative:homework03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +43,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 5,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +56,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "Boat.cs",
               "DocumentMoniker": "C:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Boat.cs",
               "RelativeDocumentMoniker": "homework2\\Models\\Boat.cs",
@@ -86,11 +104,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T10:58:09.257Z",
+=======
+              "Title": "UserTempDB.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Homework03\\UserTempDB.cs",
+              "RelativeDocumentMoniker": "Homework03\\UserTempDB.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Homework03\\UserTempDB.cs",
+              "RelativeToolTip": "Homework03\\UserTempDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:55:25.432Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Program.cs",
               "RelativeDocumentMoniker": "homework2\\Program.cs",
@@ -99,6 +128,29 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T10:46:25.601Z",
+=======
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Homework03\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Homework03\\Models\\User.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Homework03\\Models\\User.cs*",
+              "RelativeToolTip": "Homework03\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:52:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\Homework03\\Program.cs",
+              "RelativeDocumentMoniker": "Homework03\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\Homework03\\Program.cs",
+              "RelativeToolTip": "Homework03\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:51:02.408Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]

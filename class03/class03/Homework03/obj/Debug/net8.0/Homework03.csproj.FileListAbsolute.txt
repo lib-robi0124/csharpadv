@@ -1,0 +1,15 @@
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.AssemblyInfo.cs
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.sourcelink.json
+D:\qinshift\csharpadv\class03\class03\Homework03\bin\Debug\net8.0\Homework03.exe
+D:\qinshift\csharpadv\class03\class03\Homework03\bin\Debug\net8.0\Homework03.deps.json
+D:\qinshift\csharpadv\class03\class03\Homework03\bin\Debug\net8.0\Homework03.runtimeconfig.json
+D:\qinshift\csharpadv\class03\class03\Homework03\bin\Debug\net8.0\Homework03.dll
+D:\qinshift\csharpadv\class03\class03\Homework03\bin\Debug\net8.0\Homework03.pdb
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.dll
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\refint\Homework03.dll
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.pdb
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\Homework03.genruntimeconfig.cache
+D:\qinshift\csharpadv\class03\class03\Homework03\obj\Debug\net8.0\ref\Homework03.dll
