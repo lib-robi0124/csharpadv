@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharpadv\\class04\\class04\\",
+  "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class04\\class04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|d:\\csharpadv\\class04\\class04\\extensionmethod\\helpers\\numbershelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\helpers\\numbershelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|d:\\qinshift\\csharpadv\\class04\\class04\\homework04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|solutionrelative:homework04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|d:\\csharpadv\\class04\\class04\\extensionmethod\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\helpers\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|d:\\csharpadv\\class04\\class04\\extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71B5111D-647B-4981-9020-44BD5F76AFC4}|ExtensionMethod\\ExtensionMethod.csproj|solutionrelative:extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|d:\\qinshift\\csharpadv\\class04\\class04\\homework04\\helpers\\printconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|solutionrelative:homework04\\helpers\\printconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NumbersHelper.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Helpers\\NumbersHelper.cs",
-              "RelativeDocumentMoniker": "ExtensionMethod\\Helpers\\NumbersHelper.cs",
-              "ToolTip": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Helpers\\NumbersHelper.cs",
-              "RelativeToolTip": "ExtensionMethod\\Helpers\\NumbersHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T18:18:49.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StringHelper.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Helpers\\StringHelper.cs",
-              "RelativeDocumentMoniker": "ExtensionMethod\\Helpers\\StringHelper.cs",
-              "ToolTip": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Helpers\\StringHelper.cs",
-              "RelativeToolTip": "ExtensionMethod\\Helpers\\StringHelper.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Title": "PrintConsole.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Helpers\\PrintConsole.cs",
+              "RelativeDocumentMoniker": "Homework04\\Helpers\\PrintConsole.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Helpers\\PrintConsole.cs",
+              "RelativeToolTip": "Homework04\\Helpers\\PrintConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T17:42:27.714Z",
+              "WhenOpened": "2025-05-08T09:03:19.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Program.cs",
-              "RelativeDocumentMoniker": "ExtensionMethod\\Program.cs",
-              "ToolTip": "D:\\csharpadv\\class04\\class04\\ExtensionMethod\\Program.cs",
-              "RelativeToolTip": "ExtensionMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Program.cs",
+              "RelativeDocumentMoniker": "Homework04\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Program.cs",
+              "RelativeToolTip": "Homework04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T17:37:44.985Z",
+              "WhenOpened": "2025-05-08T09:00:40.521Z",
               "EditorCaption": ""
             }
           ]

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class03\\class03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\motorbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|d:\\qinshift\\csharpadv\\class03\\class03\\homework2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10544DED-B056-4351-9090-714CF5872289}|homework2\\homework2.csproj|solutionrelative:homework2\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +42,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "homework2\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Vehicle.cs",
+              "RelativeToolTip": "homework2\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:44:25.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Boat.cs",
               "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Boat.cs",
               "RelativeDocumentMoniker": "homework2\\Models\\Boat.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Boat.cs",
               "RelativeToolTip": "homework2\\Models\\Boat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:04:25.3Z"
+              "WhenOpened": "2025-05-07T12:04:25.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,46 +74,49 @@
               "RelativeDocumentMoniker": "homework2\\Models\\MotorBike.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\MotorBike.cs",
               "RelativeToolTip": "homework2\\Models\\MotorBike.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:04:25.331Z"
+              "WhenOpened": "2025-05-07T12:04:25.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Car.cs",
               "RelativeDocumentMoniker": "homework2\\Models\\Car.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Car.cs",
               "RelativeToolTip": "homework2\\Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:04:25.333Z"
+              "WhenOpened": "2025-05-07T12:04:25.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Airplane.cs",
               "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Airplane.cs",
               "RelativeDocumentMoniker": "homework2\\Models\\Airplane.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Models\\Airplane.cs",
               "RelativeToolTip": "homework2\\Models\\Airplane.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T12:04:25.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Program.cs",
               "RelativeDocumentMoniker": "homework2\\Program.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\class03\\class03\\homework2\\Program.cs",
               "RelativeToolTip": "homework2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:04:25.336Z"
+              "WhenOpened": "2025-05-07T12:04:25.336Z",
+              "EditorCaption": ""
             }
           ]
         }

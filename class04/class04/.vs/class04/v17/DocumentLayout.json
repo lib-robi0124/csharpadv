@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class04\\class04\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|d:\\qinshift\\csharpadv\\class04\\class04\\homework04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|solutionrelative:homework04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|d:\\qinshift\\csharpadv\\class04\\class04\\homework04\\helpers\\printconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC1DB00-7885-4858-9859-E60FCB83BDAE}|Homework04\\Homework04.csproj|solutionrelative:homework04\\helpers\\printconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintConsole.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Helpers\\PrintConsole.cs",
+              "RelativeDocumentMoniker": "Homework04\\Helpers\\PrintConsole.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Helpers\\PrintConsole.cs",
+              "RelativeToolTip": "Homework04\\Helpers\\PrintConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:03:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Program.cs",
+              "RelativeDocumentMoniker": "Homework04\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class04\\class04\\Homework04\\Program.cs",
+              "RelativeToolTip": "Homework04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:00:40.521Z",
+              "EditorCaption": ""
             }
           ]
         }

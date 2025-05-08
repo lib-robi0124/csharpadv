@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Im a car and i drive on 4 wheels :)");
         }
+        public override void Drive()
+        {
+            Console.WriteLine("The car is driving.");
+        }
     }
 }
