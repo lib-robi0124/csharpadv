@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharpadv\\workshop_part1\\taxiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\enums\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\enums\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Models\\Car.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\Car.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\Models\\Car.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:35:05.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Enums\\Shift.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Enums\\Shift.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Enums\\Shift.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\Enums\\Shift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:33:09.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Models\\Driver.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\Driver.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\Models\\Driver.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:26:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\User.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:15:24.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:13:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
