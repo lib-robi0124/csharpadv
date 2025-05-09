@@ -10,3 +10,15 @@ D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\Taxi
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\refint\TaxiManager9000.Domain.dll
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.pdb
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\ref\TaxiManager9000.Domain.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\bin\Debug\net8.0\TaxiManager9000.Domain.deps.json
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\bin\Debug\net8.0\TaxiManager9000.Domain.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\bin\Debug\net8.0\TaxiManager9000.Domain.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.AssemblyInfo.cs
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.sourcelink.json
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\refint\TaxiManager9000.Domain.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\TaxiManager9000.Domain.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Domain\obj\Debug\net8.0\ref\TaxiManager9000.Domain.dll

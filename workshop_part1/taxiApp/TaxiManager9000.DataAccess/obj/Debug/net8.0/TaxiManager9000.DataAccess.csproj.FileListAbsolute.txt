@@ -13,3 +13,11 @@ D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.pdb
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.genruntimeconfig.cache
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\ref\TaxiManager9000.DataAccess.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.AssemblyInfo.cs
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.sourcelink.json
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\refint\TaxiManager9000.DataAccess.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.pdb

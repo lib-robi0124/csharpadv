@@ -10,3 +10,15 @@ D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\Ta
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\refint\TaxiManager9000.Services.dll
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.pdb
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\ref\TaxiManager9000.Services.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\bin\Debug\net8.0\TaxiManager9000.Services.deps.json
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\bin\Debug\net8.0\TaxiManager9000.Services.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\bin\Debug\net8.0\TaxiManager9000.Services.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.AssemblyInfo.cs
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.sourcelink.json
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\refint\TaxiManager9000.Services.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\TaxiManager9000.Services.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.Services\obj\Debug\net8.0\ref\TaxiManager9000.Services.dll
