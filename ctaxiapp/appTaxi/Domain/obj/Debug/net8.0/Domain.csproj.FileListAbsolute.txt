@@ -10,3 +10,15 @@ D:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.dll
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.pdb
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\bin\Debug\net8.0\Domain.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\bin\Debug\net8.0\Domain.pdb
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\Domain.pdb
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,23 +1,92 @@
 {
   "format": 1,
   "restore": {
-    "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj": {}
+    "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj": {}
   },
   "projects": {
-    "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj": {
+    "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj",
+        "projectUniqueName": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj",
         "projectName": "appTaxi",
-        "projectPath": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj",
-        "packagesPath": "C:\\Users\\Robertr2\\.nuget\\packages\\",
-        "outputPath": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\obj\\",
+        "projectPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\appTaxi.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Robertr2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj": {
+                "projectPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +134,76 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

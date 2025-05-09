@@ -13,3 +13,12 @@ D:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\refint\appTaxi.d
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.pdb
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.genruntimeconfig.cache
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\ref\appTaxi.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.csproj.AssemblyReference.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.AssemblyInfoInputs.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.AssemblyInfo.cs
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.csproj.CoreCompileInputs.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.sourcelink.json
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\refint\appTaxi.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.pdb

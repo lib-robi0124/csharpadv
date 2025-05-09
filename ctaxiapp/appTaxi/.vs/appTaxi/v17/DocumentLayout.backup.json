@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\",
+  "WorkspaceRootPath": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|d:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\domain\\models\\driverassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\driverassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|d:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\domain\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|d:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|d:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08602511-8905-412A-B513-FEAD52745A1B}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A51FE6F1-67E1-4118-A424-E313B6C67C8D}|appTaxi\\appTaxi.csproj|d:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\apptaxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A51FE6F1-67E1-4118-A424-E313B6C67C8D}|appTaxi\\appTaxi.csproj|c:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\apptaxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A51FE6F1-67E1-4118-A424-E313B6C67C8D}|appTaxi\\appTaxi.csproj|solutionrelative:apptaxi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D9CC48-5749-43AD-AE4B-9BA538B02B8A}|Services\\Services.csproj|c:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D9CC48-5749-43AD-AE4B-9BA538B02B8A}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D9CC48-5749-43AD-AE4B-9BA538B02B8A}|Services\\Services.csproj|c:\\qinshift\\csharpadv\\ctaxiapp\\apptaxi\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55D9CC48-5749-43AD-AE4B-9BA538B02B8A}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\Program.cs",
+              "RelativeDocumentMoniker": "appTaxi\\Program.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\Program.cs*",
+              "RelativeToolTip": "appTaxi\\Program.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:27:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\Services.csproj*",
+              "RelativeToolTip": "Services\\Services.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T18:16:18.474Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DriverAssignment.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\DriverAssignment.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\DriverAssignment.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\DriverAssignment.cs*",
-              "RelativeToolTip": "Domain\\Models\\DriverAssignment.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:47:52.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\Driver.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Driver.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\Driver.cs",
-              "RelativeToolTip": "Domain\\Models\\Driver.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBsAAABeAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T11:50:07.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Car.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\Car.cs",
-              "RelativeToolTip": "Domain\\Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T11:32:41.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\Domain\\Models\\User.cs",
-              "RelativeToolTip": "Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T11:28:44.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\Program.cs",
-              "RelativeDocumentMoniker": "appTaxi\\Program.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\ctaxiapp\\appTaxi\\appTaxi\\Program.cs",
-              "RelativeToolTip": "appTaxi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T11:15:41.43Z",
+              "WhenOpened": "2025-05-09T18:16:39.532Z",
               "EditorCaption": ""
             }
           ]

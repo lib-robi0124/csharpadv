@@ -10,3 +10,15 @@ D:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.dl
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 D:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\qinshift\csharpadv\ctaxiapp\appTaxi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
