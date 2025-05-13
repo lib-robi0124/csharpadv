@@ -1,0 +1,15 @@
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\bin\Debug\net8.0\Qinshift.LinqMethods.exe
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\bin\Debug\net8.0\Qinshift.LinqMethods.deps.json
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\bin\Debug\net8.0\Qinshift.LinqMethods.runtimeconfig.json
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\bin\Debug\net8.0\Qinshift.LinqMethods.dll
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\bin\Debug\net8.0\Qinshift.LinqMethods.pdb
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.AssemblyInfoInputs.cache
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.AssemblyInfo.cs
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.csproj.CoreCompileInputs.cache
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.sourcelink.json
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.dll
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\refint\Qinshift.LinqMethods.dll
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.pdb
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\Qinshift.LinqMethods.genruntimeconfig.cache
+D:\csharpadv\class06\class06\Qinshift.LinqMethods\obj\Debug\net8.0\ref\Qinshift.LinqMethods.dll

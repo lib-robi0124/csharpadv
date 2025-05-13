@@ -1,0 +1,15 @@
+D:\csharpadv\class06\class06\class06\bin\Debug\net8.0\Anonymous.exe
+D:\csharpadv\class06\class06\class06\bin\Debug\net8.0\Anonymous.deps.json
+D:\csharpadv\class06\class06\class06\bin\Debug\net8.0\Anonymous.runtimeconfig.json
+D:\csharpadv\class06\class06\class06\bin\Debug\net8.0\Anonymous.dll
+D:\csharpadv\class06\class06\class06\bin\Debug\net8.0\Anonymous.pdb
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.AssemblyInfoInputs.cache
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.AssemblyInfo.cs
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.csproj.CoreCompileInputs.cache
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.sourcelink.json
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.dll
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\refint\Anonymous.dll
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.pdb
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\Anonymous.genruntimeconfig.cache
+D:\csharpadv\class06\class06\class06\obj\Debug\net8.0\ref\Anonymous.dll

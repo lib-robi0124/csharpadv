@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharpadv\\class06\\class06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\csharpadv\\class06\\class06\\qinshift.linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\csharpadv\\class06\\class06\\qinshift.linqmethods\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\csharpadv\\class06\\class06\\qinshift.linqmethods\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\csharpadv\\class06\\class06\\qinshift.linqmethods\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\csharpadv\\class06\\class06\\qinshift.linqmethods\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\csharpadv\\class06\\class06\\qinshift.linqmethods\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Database.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Database.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Database.cs",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:31.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListHelper.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Helpers\\ListHelper.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Helpers\\ListHelper.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Helpers\\ListHelper.cs",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Helpers\\ListHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:30.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Entities\\Subject.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Entities\\Subject.cs",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Entities\\Student.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Entities\\Student.cs",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:25.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Program.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Program.cs*",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Program.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:57:06.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
