@@ -26,3 +26,7 @@ C:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\obj\Debug\net8.0\Services.dll
 C:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\obj\Debug\net8.0\refint\Services.dll
 C:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\obj\Debug\net8.0\Services.pdb
 C:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\obj\Debug\net8.0\ref\Services.dll
+D:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\bin\Debug\net8.0\Domain.dll
+D:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\bin\Debug\net8.0\Domain.pdb
+D:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\qinshift\csharpadv\ctaxiapp\appTaxi\Services\obj\Debug\net8.0\Services.csproj.Up2Date

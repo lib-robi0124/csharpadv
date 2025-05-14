@@ -22,3 +22,4 @@ C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.sourceli
 C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.dll
 C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\refint\appTaxi.dll
 C:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.pdb
+D:\qinshift\csharpadv\ctaxiapp\appTaxi\appTaxi\obj\Debug\net8.0\appTaxi.csproj.AssemblyReference.cache
