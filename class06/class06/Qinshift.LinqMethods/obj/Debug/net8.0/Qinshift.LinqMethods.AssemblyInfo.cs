@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Qinshift.LinqMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+212993197b2a23549bd5d71148a9ee292a6fabbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4dec4884dede3528ede6a65c2c764d54af93ed4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Qinshift.LinqMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Qinshift.LinqMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
