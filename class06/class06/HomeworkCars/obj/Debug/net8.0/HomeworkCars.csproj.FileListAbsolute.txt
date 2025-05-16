@@ -1,0 +1,15 @@
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.AssemblyInfo.cs
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.sourcelink.json
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\bin\Debug\net8.0\HomeworkCars.exe
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\bin\Debug\net8.0\HomeworkCars.deps.json
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\bin\Debug\net8.0\HomeworkCars.runtimeconfig.json
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\bin\Debug\net8.0\HomeworkCars.dll
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\bin\Debug\net8.0\HomeworkCars.pdb
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.dll
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\refint\HomeworkCars.dll
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.pdb
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\HomeworkCars.genruntimeconfig.cache
+D:\qinshift\csharpadv\class06\class06\HomeworkCars\obj\Debug\net8.0\ref\HomeworkCars.dll

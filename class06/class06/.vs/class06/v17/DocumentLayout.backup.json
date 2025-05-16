@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class06\\class06\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|solutionrelative:homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\qinshift.linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0C7F67-ABD4-4B21-AF25-79F206D56A2E}|Qinshift.LinqMethods\\Qinshift.LinqMethods.csproj|solutionrelative:qinshift.linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\homeworkcars\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|solutionrelative:homeworkcars\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\exercise01\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\exercise01\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\helpers\\listhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\exercise01\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|d:\\qinshift\\csharpadv\\class06\\class06\\exercise01\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D7A428C-C1F6-4AF9-BC7F-32A58EAD220B}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ListHelper.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Helpers\\ListHelper.cs",
-              "RelativeDocumentMoniker": "Exercise01\\Helpers\\ListHelper.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Helpers\\ListHelper.cs",
-              "RelativeToolTip": "Exercise01\\Helpers\\ListHelper.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:37:10.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\DataBase.cs",
-              "RelativeDocumentMoniker": "Exercise01\\DataBase.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\DataBase.cs",
-              "RelativeToolTip": "Exercise01\\DataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:23:59.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "Exercise01\\Entities\\Person.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Entities\\Person.cs",
-              "RelativeToolTip": "Exercise01\\Entities\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:16:03.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Entities\\Dog.cs",
-              "RelativeDocumentMoniker": "Exercise01\\Entities\\Dog.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Entities\\Dog.cs*",
-              "RelativeToolTip": "Exercise01\\Entities\\Dog.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswB0AAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Qinshift.LinqMethods\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Qinshift.LinqMethods\\Program.cs",
+              "RelativeToolTip": "Qinshift.LinqMethods\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:08:56.668Z",
+              "WhenOpened": "2025-05-16T11:23:58.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\HomeworkCars\\Database.cs",
+              "RelativeDocumentMoniker": "HomeworkCars\\Database.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\HomeworkCars\\Database.cs",
+              "RelativeToolTip": "HomeworkCars\\Database.cs",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAnwKEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:52:56.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkCars\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs*",
+              "RelativeToolTip": "HomeworkCars\\Program.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwGMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:52:22.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Program.cs",
               "RelativeDocumentMoniker": "Exercise01\\Program.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Program.cs*",
-              "RelativeToolTip": "Exercise01\\Program.cs*",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAiwIkAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class06\\class06\\Exercise01\\Program.cs",
+              "RelativeToolTip": "Exercise01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T08:05:42.51Z",
               "EditorCaption": ""
