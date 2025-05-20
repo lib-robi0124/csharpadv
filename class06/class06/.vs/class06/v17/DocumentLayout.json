@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class06\\class06\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\csharpadv\\class06\\class06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|d:\\csharpadv\\class06\\class06\\homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|solutionrelative:homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkCars\\Program.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
+              "RelativeToolTip": "HomeworkCars\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:22:07.341Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
