@@ -119,18 +119,18 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("Filter cars that have more than 6 cylinders. Calculate the total weight of these cars." +
                 " Print the total weight.");
-List<Car> carsWithMoreThanSixCylindersForWeightSql = (from c in DataBase.Cars
+double carsWithMoreThanSixCylindersForWeightSql = (from c in DataBase.Cars
                                                       where c.Cylinders > 6
-                                                      select c).ToList();
+                                                      select c).ToList().Sum(c => c.Weight);
 List<Car> carsWithMoreThanSixCylindersForWeightLinq = DataBase.Cars
                                                             .Where(c => c.Cylinders > 6)
                                                             .ToList();
-double totalWeightSql = carsWithMoreThanSixCylindersForWeightSql.Sum(c => c.Weight);
+//double totalWeightSql = carsWithMoreThanSixCylindersForWeightSql.Sum(c => c.Weight);
 double totalWeightLinq = carsWithMoreThanSixCylindersForWeightLinq.Sum(c => c.Weight);
 Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("print from like Sql totalWeightSql");
-Console.WriteLine($"Total weight of cars with more than 6 cylinders is {totalWeightSql}");
+Console.WriteLine($"Total weight of cars with more than 6 cylinders is {carsWithMoreThanSixCylindersForWeightSql}");
 Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.DarkCyan;
 Console.WriteLine("print from linq totalWeightLinq");

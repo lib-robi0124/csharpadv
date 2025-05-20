@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\qinshift\\csharpadv\\class06\\class06\\",
+  "WorkspaceRootPath": "D:\\csharpadv\\class06\\class06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|c:\\qinshift\\csharpadv\\class06\\class06\\homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|d:\\csharpadv\\class06\\class06\\homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBF464D0-D04A-483D-9039-A8C80421ECF2}|HomeworkCars\\HomeworkCars.csproj|solutionrelative:homeworkcars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
               "RelativeDocumentMoniker": "HomeworkCars\\Program.cs",
-              "ToolTip": "C:\\qinshift\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
+              "ToolTip": "D:\\csharpadv\\class06\\class06\\HomeworkCars\\Program.cs",
               "RelativeToolTip": "HomeworkCars\\Program.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAawIEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T18:34:30.255Z",
               "EditorCaption": ""
