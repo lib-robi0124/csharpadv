@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TaxiManager9000.DataAccess\TaxiManager9000.DataAccess.csproj" />
+  </ItemGroup>
+
 </Project>

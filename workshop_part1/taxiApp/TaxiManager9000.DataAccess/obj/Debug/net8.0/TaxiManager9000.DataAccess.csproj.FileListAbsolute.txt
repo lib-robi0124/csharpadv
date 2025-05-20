@@ -1,6 +1,4 @@
-D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.DataAccess.exe
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.DataAccess.deps.json
-D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.DataAccess.runtimeconfig.json
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.DataAccess.dll
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.DataAccess.pdb
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,7 +9,6 @@ D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.dll
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\refint\TaxiManager9000.DataAccess.dll
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.pdb
-D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.genruntimeconfig.cache
 D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\ref\TaxiManager9000.DataAccess.dll
 D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
 D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.AssemblyInfoInputs.cache
@@ -21,3 +18,7 @@ D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debu
 D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.dll
 D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\refint\TaxiManager9000.DataAccess.dll
 D:\qinshift\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.pdb
+D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.Domain.dll
+D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\bin\Debug\net8.0\TaxiManager9000.Domain.pdb
+D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiManager9000.DataAccess.csproj.AssemblyReference.cache
+D:\csharpadv\workshop_part1\taxiApp\TaxiManager9000.DataAccess\obj\Debug\net8.0\TaxiMana.68AF7BC8.Up2Date

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaxiManager9000.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115dff28fae61c8ed601b613796fd40ec5f88bcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b802d830afb7d13147504fb66133990aec711c0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaxiManager9000.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaxiManager9000.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
