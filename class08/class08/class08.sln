@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class08", "class08\class08.csproj", "{FAD185E6-77B2-48A0-91DD-EB6E4BA4BFA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStreems", "FileStreems\FileStreems.csproj", "{FA874A72-A4BA-434D-A07D-71BCA64DCC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01", "Exercise01\Exercise01.csproj", "{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FAD185E6-77B2-48A0-91DD-EB6E4BA4BFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAD185E6-77B2-48A0-91DD-EB6E4BA4BFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD185E6-77B2-48A0-91DD-EB6E4BA4BFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA874A72-A4BA-434D-A07D-71BCA64DCC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA874A72-A4BA-434D-A07D-71BCA64DCC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA874A72-A4BA-434D-A07D-71BCA64DCC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA874A72-A4BA-434D-A07D-71BCA64DCC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

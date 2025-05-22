@@ -1,0 +1,15 @@
+D:\csharpadv\class08\class08\FileStreems\bin\Debug\net8.0\FileStreems.exe
+D:\csharpadv\class08\class08\FileStreems\bin\Debug\net8.0\FileStreems.deps.json
+D:\csharpadv\class08\class08\FileStreems\bin\Debug\net8.0\FileStreems.runtimeconfig.json
+D:\csharpadv\class08\class08\FileStreems\bin\Debug\net8.0\FileStreems.dll
+D:\csharpadv\class08\class08\FileStreems\bin\Debug\net8.0\FileStreems.pdb
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.AssemblyInfoInputs.cache
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.AssemblyInfo.cs
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.csproj.CoreCompileInputs.cache
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.sourcelink.json
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.dll
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\refint\FileStreems.dll
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.pdb
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\FileStreems.genruntimeconfig.cache
+D:\csharpadv\class08\class08\FileStreems\obj\Debug\net8.0\ref\FileStreems.dll

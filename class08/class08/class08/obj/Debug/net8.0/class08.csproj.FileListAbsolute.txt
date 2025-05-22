@@ -1,0 +1,15 @@
+D:\csharpadv\class08\class08\class08\bin\Debug\net8.0\class08.exe
+D:\csharpadv\class08\class08\class08\bin\Debug\net8.0\class08.deps.json
+D:\csharpadv\class08\class08\class08\bin\Debug\net8.0\class08.runtimeconfig.json
+D:\csharpadv\class08\class08\class08\bin\Debug\net8.0\class08.dll
+D:\csharpadv\class08\class08\class08\bin\Debug\net8.0\class08.pdb
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.AssemblyInfoInputs.cache
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.AssemblyInfo.cs
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.csproj.CoreCompileInputs.cache
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.sourcelink.json
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.dll
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\refint\class08.dll
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.pdb
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\class08.genruntimeconfig.cache
+D:\csharpadv\class08\class08\class08\obj\Debug\net8.0\ref\class08.dll

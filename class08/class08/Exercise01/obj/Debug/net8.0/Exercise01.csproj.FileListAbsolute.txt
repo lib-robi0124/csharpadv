@@ -1,0 +1,15 @@
+D:\csharpadv\class08\class08\Exercise01\bin\Debug\net8.0\Exercise01.exe
+D:\csharpadv\class08\class08\Exercise01\bin\Debug\net8.0\Exercise01.deps.json
+D:\csharpadv\class08\class08\Exercise01\bin\Debug\net8.0\Exercise01.runtimeconfig.json
+D:\csharpadv\class08\class08\Exercise01\bin\Debug\net8.0\Exercise01.dll
+D:\csharpadv\class08\class08\Exercise01\bin\Debug\net8.0\Exercise01.pdb
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfoInputs.cache
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.AssemblyInfo.cs
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.csproj.CoreCompileInputs.cache
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.sourcelink.json
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.dll
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\refint\Exercise01.dll
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.pdb
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\Exercise01.genruntimeconfig.cache
+D:\csharpadv\class08\class08\Exercise01\obj\Debug\net8.0\ref\Exercise01.dll
