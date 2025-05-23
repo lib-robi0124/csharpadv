@@ -1,0 +1,15 @@
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\bin\Debug\net8.0\HMTask02.exe
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\bin\Debug\net8.0\HMTask02.deps.json
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\bin\Debug\net8.0\HMTask02.runtimeconfig.json
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\bin\Debug\net8.0\HMTask02.dll
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\bin\Debug\net8.0\HMTask02.pdb
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.AssemblyInfoInputs.cache
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.AssemblyInfo.cs
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.csproj.CoreCompileInputs.cache
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.sourcelink.json
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.dll
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\refint\HMTask02.dll
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.pdb
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\HMTask02.genruntimeconfig.cache
+D:\qinshift\csharpadv\class07\Delegates\HMTask02\obj\Debug\net8.0\ref\HMTask02.dll

@@ -3,13 +3,36 @@
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\class07\\Delegates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18972B87-A516-4E50-A56E-D9AD46472AD6}|..\\Events\\Events.csproj|d:\\qinshift\\csharpadv\\class07\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E922888F-9DEC-4DC5-8972-FCEC49CE4D21}|HMTask02\\HMTask02.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\hmtask02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E922888F-9DEC-4DC5-8972-FCEC49CE4D21}|HMTask02\\HMTask02.csproj|solutionrelative:hmtask02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18972B87-A516-4E50-A56E-D9AD46472AD6}|..\\Events\\Events.csproj|d:\\qinshift\\csharpadv\\class07\\events\\entites\\alarmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88328618-F5E3-4DCB-B21F-E2A8F5FC6980}|Homework07\\Homework07.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\homework07\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88328618-F5E3-4DCB-B21F-E2A8F5FC6980}|Homework07\\Homework07.csproj|solutionrelative:homework07\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18972B87-A516-4E50-A56E-D9AD46472AD6}|..\\Events\\Events.csproj|d:\\qinshift\\csharpadv\\class07\\events\\entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88328618-F5E3-4DCB-B21F-E2A8F5FC6980}|Homework07\\Homework07.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\homework07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88328618-F5E3-4DCB-B21F-E2A8F5FC6980}|Homework07\\Homework07.csproj|solutionrelative:homework07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88328618-F5E3-4DCB-B21F-E2A8F5FC6980}|Homework07\\Homework07.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\homework07\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88328618-F5E3-4DCB-B21F-E2A8F5FC6980}|Homework07\\Homework07.csproj|solutionrelative:homework07\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA35930-3945-422A-AE3A-0CA6108267B7}|Events\\Events.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\events\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA35930-3945-422A-AE3A-0CA6108267B7}|Events\\Events.csproj|solutionrelative:events\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A584DF29-3C43-4078-9CCF-37DE6111E754}|Delegates\\Delegates.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A584DF29-3C43-4078-9CCF-37DE6111E754}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA35930-3945-422A-AE3A-0CA6108267B7}|Events\\Events.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\events\\entities\\alarmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA35930-3945-422A-AE3A-0CA6108267B7}|Events\\Events.csproj|solutionrelative:events\\entities\\alarmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA35930-3945-422A-AE3A-0CA6108267B7}|Events\\Events.csproj|d:\\qinshift\\csharpadv\\class07\\delegates\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA35930-3945-422A-AE3A-0CA6108267B7}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,42 +50,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlarmClock.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Events\\Entites\\AlarmClock.cs",
-              "RelativeDocumentMoniker": "..\\Events\\Entites\\AlarmClock.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Events\\Entites\\AlarmClock.cs",
-              "RelativeToolTip": "..\\Events\\Entites\\AlarmClock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\HMTask02\\Program.cs",
+              "RelativeDocumentMoniker": "HMTask02\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\HMTask02\\Program.cs",
+              "RelativeToolTip": "HMTask02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T10:29:10.519Z",
+              "WhenOpened": "2025-05-23T09:08:42.031Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Homework07\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Homework07\\Models\\Student.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Homework07\\Models\\Student.cs",
+              "RelativeToolTip": "Homework07\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:24:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Homework07\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Homework07\\Models\\Teacher.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Homework07\\Models\\Teacher.cs",
+              "RelativeToolTip": "Homework07\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:22:13.908Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Events\\Entites\\Person.cs",
-              "RelativeDocumentMoniker": "..\\Events\\Entites\\Person.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Events\\Entites\\Person.cs",
-              "RelativeToolTip": "..\\Events\\Entites\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Homework07\\Program.cs",
+              "RelativeDocumentMoniker": "Homework07\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Homework07\\Program.cs",
+              "RelativeToolTip": "Homework07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T10:28:24.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T06:45:41.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Events\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Events\\Program.cs",
-              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Events\\Program.cs",
-              "RelativeToolTip": "..\\Events\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T10:27:43.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T06:20:58.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Events\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "Events\\Entities\\Person.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Events\\Entities\\Person.cs",
+              "RelativeToolTip": "Events\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:20:30.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlarmClock.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Events\\Entities\\AlarmClock.cs",
+              "RelativeDocumentMoniker": "Events\\Entities\\AlarmClock.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Events\\Entities\\AlarmClock.cs",
+              "RelativeToolTip": "Events\\Entities\\AlarmClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:20:23.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\class07\\Delegates\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:47:21.737Z"
             }
           ]
         }
