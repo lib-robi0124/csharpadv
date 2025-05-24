@@ -10,8 +10,4 @@
     <ProjectReference Include="..\TaxiManager9000.DataAccess\TaxiManager9000.DataAccess.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Utilities\" />
-  </ItemGroup>
-
 </Project>
