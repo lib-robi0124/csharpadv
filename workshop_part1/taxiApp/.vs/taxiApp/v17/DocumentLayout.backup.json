@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\csharpadv\\workshop_part1\\taxiApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\enums\\menuchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\enums\\menuchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\utilities\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,32 +43,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListExtensions.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
-              "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Title": "UIService.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\UIService.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\UIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:30:24.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StringValidator.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\StringValidator.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs*",
-              "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\StringValidator.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:09:25.665Z",
+              "WhenOpened": "2025-05-23T17:32:19.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MenuChoice.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:24:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUIService.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:21:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListExtensions.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:30:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringValidator.cs",
+              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\StringValidator.cs",
+              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\StringValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:09:25.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ExtendedConsole.cs",
               "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
               "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
@@ -64,8 +113,7 @@
               "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T15:58:27.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T15:58:27.067Z"
             }
           ]
         }

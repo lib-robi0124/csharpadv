@@ -11,8 +11,6 @@ namespace TaxiManager9000.Services.Interfaces
         void Welcome(User user);
         int MainMenu(Role role);
         int ChooseMenu<T>(List<T> items);
-        int ChooseEntitesMenu<T>(List<T> enttites) where T : BaseEntity;
-
-
+        int ChooseEntitiesMenu<T>(List<T> entities) where T : BaseEntity;
     }
 }
