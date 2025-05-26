@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharpadv\\class08\\class08\\",
+  "WorkspaceRootPath": "C:\\qinshift\\csharpadv\\class08\\class08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}|Exercise01\\Exercise01.csproj|d:\\csharpadv\\class08\\class08\\exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EB5A01-7F1E-4FF1-B45F-C3C83E76C9B8}|Exercise01\\Exercise01.csproj|solutionrelative:exercise01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAD185E6-77B2-48A0-91DD-EB6E4BA4BFA9}|class08\\class08.csproj|d:\\csharpadv\\class08\\class08\\class08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAD185E6-77B2-48A0-91DD-EB6E4BA4BFA9}|class08\\class08.csproj|solutionrelative:class08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA874A72-A4BA-434D-A07D-71BCA64DCC99}|FileStreems\\FileStreems.csproj|d:\\csharpadv\\class08\\class08\\filestreems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA874A72-A4BA-434D-A07D-71BCA64DCC99}|FileStreems\\FileStreems.csproj|solutionrelative:filestreems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AD64334-6EF4-4E7B-AE51-76487F329280}|Homework\\Homework.csproj|c:\\qinshift\\csharpadv\\class08\\class08\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD64334-6EF4-4E7B-AE51-76487F329280}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class08\\class08\\class08\\Program.cs",
-              "RelativeDocumentMoniker": "class08\\Program.cs",
-              "ToolTip": "D:\\csharpadv\\class08\\class08\\class08\\Program.cs",
-              "RelativeToolTip": "class08\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:53:19.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class08\\class08\\Exercise01\\Program.cs",
-              "RelativeDocumentMoniker": "Exercise01\\Program.cs",
-              "ToolTip": "D:\\csharpadv\\class08\\class08\\Exercise01\\Program.cs",
-              "RelativeToolTip": "Exercise01\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\qinshift\\csharpadv\\class08\\class08\\Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Homework\\Program.cs",
+              "ToolTip": "C:\\qinshift\\csharpadv\\class08\\class08\\Homework\\Program.cs",
+              "RelativeToolTip": "Homework\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:47:18.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharpadv\\class08\\class08\\FileStreems\\Program.cs",
-              "RelativeDocumentMoniker": "FileStreems\\Program.cs",
-              "ToolTip": "D:\\csharpadv\\class08\\class08\\FileStreems\\Program.cs",
-              "RelativeToolTip": "FileStreems\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T17:20:43.331Z",
+              "WhenOpened": "2025-05-26T17:20:41.683Z",
               "EditorCaption": ""
             }
           ]
