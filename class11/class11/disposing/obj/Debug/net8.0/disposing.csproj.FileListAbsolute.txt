@@ -1,0 +1,15 @@
+D:\csharpadv\class11\class11\disposing\bin\Debug\net8.0\disposing.exe
+D:\csharpadv\class11\class11\disposing\bin\Debug\net8.0\disposing.deps.json
+D:\csharpadv\class11\class11\disposing\bin\Debug\net8.0\disposing.runtimeconfig.json
+D:\csharpadv\class11\class11\disposing\bin\Debug\net8.0\disposing.dll
+D:\csharpadv\class11\class11\disposing\bin\Debug\net8.0\disposing.pdb
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.AssemblyInfoInputs.cache
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.AssemblyInfo.cs
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.csproj.CoreCompileInputs.cache
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.sourcelink.json
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.dll
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\refint\disposing.dll
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.pdb
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\disposing.genruntimeconfig.cache
+D:\csharpadv\class11\class11\disposing\obj\Debug\net8.0\ref\disposing.dll

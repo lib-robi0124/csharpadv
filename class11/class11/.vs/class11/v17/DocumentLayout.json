@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharpadv\\class11\\class11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\ourjsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\ourjsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurJsonSerializer.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\OurJsonSerializer.cs",
+              "RelativeDocumentMoniker": "SerializeDeserialize\\OurJsonSerializer.cs",
+              "ToolTip": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\OurJsonSerializer.cs",
+              "RelativeToolTip": "SerializeDeserialize\\OurJsonSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:13:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\Student.cs",
+              "RelativeDocumentMoniker": "SerializeDeserialize\\Student.cs",
+              "ToolTip": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\Student.cs",
+              "RelativeToolTip": "SerializeDeserialize\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:07:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\Program.cs",
+              "RelativeDocumentMoniker": "SerializeDeserialize\\Program.cs",
+              "ToolTip": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\Program.cs",
+              "RelativeToolTip": "SerializeDeserialize\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:58:46.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
