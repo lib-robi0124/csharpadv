@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "disposing", "disposing\disposing.csproj", "{BB7A7BF1-DE05-4E71-BD2A-B43FDA6BF0B5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeDeserialize", "SerializeDeserialize\SerializeDeserialize.csproj", "{ACF02447-C282-4CF8-88EC-DE4B6651B917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{12B511C0-C472-47FD-8253-230DB9430294}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ACF02447-C282-4CF8-88EC-DE4B6651B917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF02447-C282-4CF8-88EC-DE4B6651B917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF02447-C282-4CF8-88EC-DE4B6651B917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B511C0-C472-47FD-8253-230DB9430294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B511C0-C472-47FD-8253-230DB9430294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B511C0-C472-47FD-8253-230DB9430294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B511C0-C472-47FD-8253-230DB9430294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\csharpadv\\class11\\class11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\ourjsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\ourjsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\serializedeserialize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\serializedeserialize.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|d:\\csharpadv\\class11\\class11\\serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02447-C282-4CF8-88EC-DE4B6651B917}|SerializeDeserialize\\SerializeDeserialize.csproj|solutionrelative:serializedeserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SerializeDeserialize",
-              "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj",
-              "RelativeDocumentMoniker": "SerializeDeserialize\\SerializeDeserialize.csproj",
-              "ToolTip": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj",
-              "RelativeToolTip": "SerializeDeserialize\\SerializeDeserialize.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-27T18:07:25.64Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OurJsonSerializer.cs",
               "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\OurJsonSerializer.cs",
               "RelativeDocumentMoniker": "SerializeDeserialize\\OurJsonSerializer.cs",
@@ -60,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\Student.cs",
               "RelativeDocumentMoniker": "SerializeDeserialize\\Student.cs",
@@ -73,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\Program.cs",
               "RelativeDocumentMoniker": "SerializeDeserialize\\Program.cs",

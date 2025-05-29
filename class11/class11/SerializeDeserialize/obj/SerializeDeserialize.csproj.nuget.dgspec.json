@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj": {}
+    "D:\\qinshift\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj": {}
   },
   "projects": {
-    "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj": {
+    "D:\\qinshift\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj",
+        "projectUniqueName": "D:\\qinshift\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj",
         "projectName": "SerializeDeserialize",
-        "projectPath": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj",
-        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "D:\\csharpadv\\class11\\class11\\SerializeDeserialize\\obj\\",
+        "projectPath": "D:\\qinshift\\csharpadv\\class11\\class11\\SerializeDeserialize\\SerializeDeserialize.csproj",
+        "packagesPath": "C:\\Users\\Robertr2\\.nuget\\packages\\",
+        "outputPath": "D:\\qinshift\\csharpadv\\class11\\class11\\SerializeDeserialize\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robertr2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
