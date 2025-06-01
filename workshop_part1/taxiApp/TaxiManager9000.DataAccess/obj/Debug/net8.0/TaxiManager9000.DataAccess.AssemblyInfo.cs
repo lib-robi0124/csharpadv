@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaxiManager9000.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd3d021e209c154ef7c042b42604c6f6d5c06df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa7fe5a5e01fb70e1feb96db0aa388689cbe2ceb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaxiManager9000.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaxiManager9000.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

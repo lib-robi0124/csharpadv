@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharpadv\\workshop_part1\\taxiApp\\",
+  "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B747215-AD6E-4E04-9192-77595424F20A}|taxiApp\\TaxiManager9000.app.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B747215-AD6E-4E04-9192-77595424F20A}|taxiApp\\TaxiManager9000.app.csproj|solutionrelative:taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428D61BA-60C8-4435-AB51-E6D1847D2F0C}|TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj|solutionrelative:taximanager9000.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\stringvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B747215-AD6E-4E04-9192-77595424F20A}|taxiApp\\TaxiManager9000.app.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B747215-AD6E-4E04-9192-77595424F20A}|taxiApp\\TaxiManager9000.app.csproj|solutionrelative:taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\stringvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\utilities\\stringvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\enums\\menuchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\enums\\menuchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\enums\\menuchoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\utilities\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\extendedconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\extendedconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\utilities\\extendedconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,110 +54,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\taxiApp\\Program.cs",
-              "RelativeDocumentMoniker": "taxiApp\\Program.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\taxiApp\\Program.cs",
-              "RelativeToolTip": "taxiApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:03:12.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Models\\User.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\User.cs",
-              "RelativeToolTip": "TaxiManager9000.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:51:34.925Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UserService.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Services\\UserService.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UserService.cs",
-              "RelativeToolTip": "TaxiManager9000.Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\ServiceBase.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\ServiceBase.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\ServiceBase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:01:00.455Z",
+              "WhenOpened": "2025-05-28T09:10:10.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "TaxiManager9000.Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\taxiApp\\Program.cs",
+              "RelativeDocumentMoniker": "taxiApp\\Program.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\taxiApp\\Program.cs",
+              "RelativeToolTip": "taxiApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:59:02.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:03:12.765Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\Models\\User.cs",
+              "RelativeToolTip": "TaxiManager9000.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:51:34.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\UserService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UserService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:01:00.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:59:02.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UIService.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
               "RelativeDocumentMoniker": "TaxiManager9000.Services\\UIService.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
               "RelativeToolTip": "TaxiManager9000.Services\\UIService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:32:19.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuChoice.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Enums\\MenuChoice.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Enums\\MenuChoice.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Enums\\MenuChoice.cs",
-              "RelativeToolTip": "TaxiManager9000.Services\\Enums\\MenuChoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:24:07.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUIService.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
-              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
-              "RelativeToolTip": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:21:58.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T17:32:19.525Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "MenuChoice.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Enums\\MenuChoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:24:07.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUIService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:21:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ListExtensions.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
               "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
               "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\ListExtensions.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,24 +171,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StringValidator.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
               "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\StringValidator.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\StringValidator.cs",
               "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\StringValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:09:25.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T16:09:25.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ExtendedConsole.cs",
-              "DocumentMoniker": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
               "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
-              "ToolTip": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
               "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
