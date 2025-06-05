@@ -1,0 +1,15 @@
+D:\csharpadv\class13\class13\threads\bin\Debug\net8.0\threads.exe
+D:\csharpadv\class13\class13\threads\bin\Debug\net8.0\threads.deps.json
+D:\csharpadv\class13\class13\threads\bin\Debug\net8.0\threads.runtimeconfig.json
+D:\csharpadv\class13\class13\threads\bin\Debug\net8.0\threads.dll
+D:\csharpadv\class13\class13\threads\bin\Debug\net8.0\threads.pdb
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.AssemblyInfoInputs.cache
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.AssemblyInfo.cs
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.csproj.CoreCompileInputs.cache
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.sourcelink.json
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.dll
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\refint\threads.dll
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.pdb
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\threads.genruntimeconfig.cache
+D:\csharpadv\class13\class13\threads\obj\Debug\net8.0\ref\threads.dll

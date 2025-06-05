@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqT6ccnbSuE=",
+  "dgSpecHash": "0kzTXPh1LX4=",
   "success": true,
-  "projectFilePath": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj",
+  "projectFilePath": "D:\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Domain\\TaxiManager9000.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

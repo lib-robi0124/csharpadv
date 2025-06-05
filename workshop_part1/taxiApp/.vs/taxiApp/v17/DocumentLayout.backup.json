@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "TaxiManager9000.Services\\ServiceBase.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\ServiceBase.cs",
               "RelativeToolTip": "TaxiManager9000.Services\\ServiceBase.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T09:10:10.736Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "taxiApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:03:12.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:03:12.765Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "TaxiManager9000.Domain\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:51:34.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T12:51:34.925Z"
             },
             {
               "$type": "Document",

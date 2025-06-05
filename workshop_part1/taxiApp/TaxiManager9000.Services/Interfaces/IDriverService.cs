@@ -5,7 +5,7 @@ namespace TaxiManager9000.Services.Interfaces
     public interface IDriverService : IServiceBase<Driver>
     {
         void AssignDriver(Driver driver, Car car);
-        void UnAssignedDriver(Driver driver);
+        void UnassignDriver(Driver driver);
         bool IsAvailableDriver(Driver driver);
 
     }

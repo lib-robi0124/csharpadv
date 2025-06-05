@@ -24,6 +24,7 @@ namespace TaxiManager9000.Services.Utilities
                     Console.WriteLine(item.Print());
                 }
             }
+            Console.ReadLine();
         }
 
         public static void PrintStatus(this List<Car> list)
@@ -41,6 +42,7 @@ namespace TaxiManager9000.Services.Utilities
                     Console.WriteLine($"Car Id: {car.Id} - Plate {car.LicensePlate} with expiry date: {car.LicensePlateExpiryDate}");
                 }
             }
+            Console.ReadLine() ;
         }
         public static void PrintStatus(this List<Driver> list)
         {

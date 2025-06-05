@@ -1,0 +1,15 @@
+D:\csharpadv\class13\class13\asyncawait\bin\Debug\net8.0\asyncawait.exe
+D:\csharpadv\class13\class13\asyncawait\bin\Debug\net8.0\asyncawait.deps.json
+D:\csharpadv\class13\class13\asyncawait\bin\Debug\net8.0\asyncawait.runtimeconfig.json
+D:\csharpadv\class13\class13\asyncawait\bin\Debug\net8.0\asyncawait.dll
+D:\csharpadv\class13\class13\asyncawait\bin\Debug\net8.0\asyncawait.pdb
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.AssemblyInfoInputs.cache
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.AssemblyInfo.cs
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.csproj.CoreCompileInputs.cache
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.sourcelink.json
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.dll
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\refint\asyncawait.dll
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.pdb
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\asyncawait.genruntimeconfig.cache
+D:\csharpadv\class13\class13\asyncawait\obj\Debug\net8.0\ref\asyncawait.dll

@@ -1,0 +1,15 @@
+D:\csharpadv\class13\class13\tasks\bin\Debug\net8.0\tasks.exe
+D:\csharpadv\class13\class13\tasks\bin\Debug\net8.0\tasks.deps.json
+D:\csharpadv\class13\class13\tasks\bin\Debug\net8.0\tasks.runtimeconfig.json
+D:\csharpadv\class13\class13\tasks\bin\Debug\net8.0\tasks.dll
+D:\csharpadv\class13\class13\tasks\bin\Debug\net8.0\tasks.pdb
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.AssemblyInfoInputs.cache
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.AssemblyInfo.cs
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.csproj.CoreCompileInputs.cache
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.sourcelink.json
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.dll
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\refint\tasks.dll
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.pdb
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\tasks.genruntimeconfig.cache
+D:\csharpadv\class13\class13\tasks\obj\Debug\net8.0\ref\tasks.dll

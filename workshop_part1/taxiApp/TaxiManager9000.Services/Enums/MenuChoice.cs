@@ -13,4 +13,9 @@
         Exit,
         RemoveExistingUser
     }
+    public enum DriverManagerChoise
+    {
+        AssigneDriver = 1,
+        UnassigneDriver = 2
+    }
 }

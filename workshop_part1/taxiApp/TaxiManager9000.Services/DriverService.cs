@@ -11,7 +11,7 @@ namespace TaxiManager9000.Services
            driver.Car = car;
             _dbInstance.Update(driver);
         }
-         public void UnAssignedDriver(Driver driver)
+         public void UnassignDriver(Driver driver)
           {
             driver.Car = null;
             _dbInstance.Update(driver);
