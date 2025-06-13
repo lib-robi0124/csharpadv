@@ -36,14 +36,11 @@ namespace TaxiManager9000.Services
         public void Seed(List<T> items)
         {
             if (_dbInstance.GetAll().Count > 0)
-            {
-                return;
+                    return;
                 items.ForEach(item => _dbInstance.Insert(item));
-            }
+            
         }
 
-        public interface ICarService
-        {
-        }
+       
     }
 }

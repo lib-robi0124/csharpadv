@@ -16,7 +16,10 @@ namespace TaxiManager9000.Services.Utilities
 
         public static void Print<T>(this List<T> list) where T : BaseEntity
         {
-            if (list.Count == 0) ExtendedConsole.NoItemsMessage<T>();
+            if (list.Count == 0)
+            {
+                ExtendedConsole.NoItemsMessage<T>();
+            }
             else
             {
                 foreach (T item in list)

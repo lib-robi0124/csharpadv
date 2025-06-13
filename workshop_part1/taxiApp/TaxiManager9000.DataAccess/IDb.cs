@@ -4,6 +4,7 @@ namespace TaxiManager9000.DataAccess
 {
     public interface IDb<T> where T : BaseEntity
     {
+        // CRUD Methods
         List<T> GetAll();
         T GetById(int id);
         int Insert(T entity);

@@ -28,3 +28,11 @@ D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\obj\Debug\net8.0\refint\Tax
 D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\obj\Debug\net8.0\TaxiManager9000.app.pdb
 D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\obj\Debug\net8.0\TaxiManager9000.app.genruntimeconfig.cache
 D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\obj\Debug\net8.0\ref\TaxiManager9000.app.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\obj\Debug\net8.0\TaxiManager9000.app.csproj.AssemblyReference.cache
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\bin\Debug\net8.0\TaxiManager9000.DataAccess.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\bin\Debug\net8.0\TaxiManager9000.Domain.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\bin\Debug\net8.0\TaxiManager9000.Services.dll
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\bin\Debug\net8.0\TaxiManager9000.Services.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\bin\Debug\net8.0\TaxiManager9000.DataAccess.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\bin\Debug\net8.0\TaxiManager9000.Domain.pdb
+D:\qinshift\csharpadv\workshop_part1\taxiApp\taxiApp\obj\Debug\net8.0\TaxiMana.11B050F8.Up2Date

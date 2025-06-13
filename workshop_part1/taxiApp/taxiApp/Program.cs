@@ -38,50 +38,52 @@ while (true)
 
     #region Menu
     int menuChoiceNumber = uiService.MainMenu(userService.CurrentUser.Role);
-    if (menuChoiceNumber == 1) continue;
-    MenuChoice menuChoice = uiService.MenuItems[menuChoiceNumber - 1];
-    switch (menuChoice)
-    {
-        case MenuChoice.AddNewUser:
-            string username = ExtendedConsole.GetInput("Username:");
-            string password = ExtendedConsole.GetInput("Password:");
-            if (!StringValidator.ValidateUsername(username) || !StringValidator.ValidatePassword(password))
-            {
-                ExtendedConsole.WriteLine("Add failed.", ConsoleColor.Red);
-                Console.ReadLine();
-                continue;
-            }
-            int role = uiService.ChooseMenu(new List<string>()
+        if (menuChoiceNumber == -1) continue;
+        MenuChoice menuChoice = uiService.MenuItems[menuChoiceNumber - 1];
+        switch (menuChoice)
+        {
+            case MenuChoice.AddNewUser:
+                string username = ExtendedConsole.GetInput("Username:");
+                string password = ExtendedConsole.GetInput("Password:");
+                if (!StringValidator.ValidateUsername(username) || !StringValidator.ValidatePassword(password))
                 {
-                    "Admin", "Manager", "Maintenance"
-                });
-            User newUser = new User(username, password, (Role)role);
-            userService.Add(newUser);
-            ExtendedConsole.WriteLine("User is succ added in database", ConsoleColor.Green);
-            break;
-        case MenuChoice.RemoveExitingUser:
-            List<User> users = userService.GetAll().Where(x => x.Id != userService.CurrentUser.Id).ToList();
-            int choise = uiService.ChooseEntitiesMenu(users);
-            if (choise == -1) continue;
+                    ExtendedConsole.WriteLine("Add failed.", ConsoleColor.Red);
+                    Console.ReadLine();
+                    continue;
+                }
+                int role = uiService.ChooseMenu(new List<string>()
+                    {
+                        "Admin", "Manager", "Maintenance"
+                    });
+                User newUser = new User(username, password, (Role)role);
+                userService.Add(newUser);
+                ExtendedConsole.WriteLine("User is succ added in database", ConsoleColor.Green);
+                break;
+            case MenuChoice.RemoveExitingUser:
+                List<User> users = userService.GetAll().Where(x => x.Id != userService.CurrentUser.Id).ToList();
+                int choise = uiService.ChooseEntitiesMenu(users);
+                if (choise == -1) continue;
 
-            userService.Remove(users[choise - 1].Id);
-            ExtendedConsole.WriteLine("User is succ removed from database", ConsoleColor.Green);
-            break;
-        case MenuChoice.ListAllDrivers:
-            driverService.GetAll().Print();
-            break;
-        case MenuChoice.TaxiLicenseStatus:
-            driverService.GetAll().PrintStatus();
-            break;
-        case MenuChoice.ListAllCars:
-            carService.GetAll().Print();
-            break;
-        case MenuChoice.LicensePlateStatus:
-            carService.GetAll().PrintStatus();
-            break;
-        case MenuChoice.DriverManager:
-            List<DriverManagerChoise> driverMangerMenu = new List<DriverManagerChoise>() { DriverManagerChoise.AssigneDriver, DriverManagerChoise.UnassigneDriver
-                    };
+                userService.Remove(users[choise - 1].Id);
+                ExtendedConsole.WriteLine("User is succ removed from database", ConsoleColor.Green);
+                break;
+            case MenuChoice.ListAllDrivers:
+                driverService.GetAll().Print();
+                break;
+            case MenuChoice.TaxiLicenseStatus:
+                driverService.GetAll().PrintStatus();
+                break;
+            case MenuChoice.ListAllCars:
+                carService.GetAll().Print();
+                break;
+            case MenuChoice.LicensePlateStatus:
+                carService.GetAll().PrintStatus();
+                break;
+            case MenuChoice.DriverManager:
+                List<DriverManagerChoise> driverMangerMenu = new List<DriverManagerChoise>() 
+                {
+                    DriverManagerChoise.AssigneDriver, DriverManagerChoise.UnassigneDriver
+                };
             int driverChoice = uiService.ChooseMenu(driverMangerMenu);
 
             List<Driver> availableDriver = driverService.GetAll(x => driverService.IsAvailableDriver(x));
