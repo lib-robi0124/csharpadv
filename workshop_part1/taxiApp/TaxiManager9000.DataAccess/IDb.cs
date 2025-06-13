@@ -10,6 +10,7 @@ namespace TaxiManager9000.DataAccess
         int Insert(T entity);
         void Update(T entity);
         void Delete(int id);
+        List<T> FilterBy(Func<T, bool> filterCondition);
 
 
     }

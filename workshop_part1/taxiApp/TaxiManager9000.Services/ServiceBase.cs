@@ -17,9 +17,9 @@ namespace TaxiManager9000.Services
         {
             return _dbInstance.GetAll();
         }
-        public List<T> GetAll(Func<T, bool> whereCondition)
+        public List<T> GetFiltered(Func<T, bool> whereCondition)
         {
-            return _dbInstance.GetAll().Where(whereCondition).ToList();
+            return _dbInstance.FilterBy(whereCondition);
         }
         public T GetSingle(int id)
         {

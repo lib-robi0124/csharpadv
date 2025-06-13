@@ -43,6 +43,10 @@ namespace TaxiManager9000.DataAccess.Implementation
             if (itemFromLocalDb != null) 
                 _db.Remove(itemFromLocalDb);
             }
-        
+        public List<T> FilterBy(Func<T, bool> filterCondition)
+        {
+            return _db.Where(filterCondition).ToList();
+        }
+
     }
 }

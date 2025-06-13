@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaxiManager9000.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23bf8e89cd17d748054a331e4b9e9bceb76325de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acbda681256e69c0c537e75ceb641f71bfd49edb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaxiManager9000.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaxiManager9000.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

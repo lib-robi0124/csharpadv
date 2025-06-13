@@ -86,7 +86,7 @@ while (true)
                 };
             int driverChoice = uiService.ChooseMenu(driverMangerMenu);
 
-            List<Driver> availableDriver = driverService.GetAll(x => driverService.IsAvailableDriver(x));
+            List<Driver> availableDriver = driverService.GetFiltered(x => driverService.IsAvailableDriver(x));
 
             if (driverChoice == 1)
             {
@@ -96,7 +96,7 @@ while (true)
 
                 if (assigneDriverChoise == -1) continue;
 
-                List<Car> availableForAssigneCars = carService.GetAll(x => carService.IsAvailableCar(x));
+                List<Car> availableForAssigneCars = carService.GetFiltered(x => carService.IsAvailableCar(x));
 
                 int assigneCarChoise = uiService.ChooseEntitiesMenu(availableForAssigneCars);
                 if (assigneCarChoise == -1) continue;
