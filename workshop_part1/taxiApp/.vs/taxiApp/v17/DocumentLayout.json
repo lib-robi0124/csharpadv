@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B747215-AD6E-4E04-9192-77595424F20A}|taxiApp\\TaxiManager9000.app.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B747215-AD6E-4E04-9192-77595424F20A}|taxiApp\\TaxiManager9000.app.csproj|solutionrelative:taxiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\utilities\\extendedconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\utilities\\extendedconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|d:\\qinshift\\csharpadv\\workshop_part1\\taxiapp\\taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C7F03F-F7FA-436E-BAC9-A94C342F99BA}|TaxiManager9000.Services\\TaxiManager9000.Services.csproj|solutionrelative:taximanager9000.services\\interfaces\\iuiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +35,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UIService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\UIService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\UIService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\UIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:11:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtendedConsole.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Utilities\\ExtendedConsole.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:10:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUIService.cs",
+              "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "RelativeDocumentMoniker": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "RelativeToolTip": "TaxiManager9000.Services\\Interfaces\\IUIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:10:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\taxiApp\\Program.cs",
               "RelativeDocumentMoniker": "taxiApp\\Program.cs",
               "ToolTip": "D:\\qinshift\\csharpadv\\workshop_part1\\taxiApp\\taxiApp\\Program.cs",
               "RelativeToolTip": "taxiApp\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T07:45:22.034Z"
+              "WhenOpened": "2025-06-12T07:45:22.034Z",
+              "EditorCaption": ""
             }
           ]
         }

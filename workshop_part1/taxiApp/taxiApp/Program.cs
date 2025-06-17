@@ -22,13 +22,14 @@ while (true)
     {
         try
         {
+            
             User inputUser = uiService.LogInMenu();
             userService.LogIn(inputUser.Username, inputUser.Password);
             uiService.Welcome(userService.CurrentUser);
         }
-        catch (Exception ex)
+        catch (Exception)
         {
-            ExtendedConsole.WriteLine(ex.Message, ConsoleColor.Red);
+            ExtendedConsole.PrintError("Invalid choice! Try again...");
             Console.ReadLine();
             continue;
         }

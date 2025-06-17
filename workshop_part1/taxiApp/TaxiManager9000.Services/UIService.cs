@@ -28,7 +28,7 @@ namespace TaxiManager9000.Services
         }
         public User LogInMenu()
         {
-            Console.WriteLine("Taxi Manager 9000");
+            Console.WriteLine("\n\t*** Taxi Manager 9000 ***\n");
             ExtendedConsole.Separator();
             Console.WriteLine("Log in:");
             string username = ExtendedConsole.GetInput("Username:");

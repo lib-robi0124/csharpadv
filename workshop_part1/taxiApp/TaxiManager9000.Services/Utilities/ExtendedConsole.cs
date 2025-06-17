@@ -16,6 +16,21 @@ namespace TaxiManager9000.Services.Utilities
             Console.WriteLine(value);
             Console.ResetColor();
         }
+        public static void PrintSuccess(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(message);
+            Console.ResetColor();
+            Console.ReadLine();
+        }
+
+        public static void PrintError(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(message);
+            Console.ResetColor();
+            Console.ReadLine();
+        }
         public static string GetInput(string text)
         {
             Console.WriteLine(text);
