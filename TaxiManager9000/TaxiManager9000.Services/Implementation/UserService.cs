@@ -36,13 +36,19 @@ namespace TaxiManager9000.Services.Implementation
 
         public bool ChangePassword(string oldPassword, string newPassword)
         {
-            if (CurrentUser.Password != oldPassword || !ValidationHelper.ValidatePassword(newPassword) || oldPassword == newPassword)
-            {
+            //if (CurrentUser.Password != oldPassword || !ValidationHelper.ValidatePassword(newPassword) || oldPassword == newPassword)
+            //{
+            //    return false;
+            //}
+            //CurrentUser.Password = newPassword;
+            //_dbInstance = Update(CurrentUser);
+            //return true;
+            User user = _dbInstance.GetById(CurrentUser.Id);
+            if (user.Password != oldPassword)
                 return false;
-            }
-            CurrentUser.Password = newPassword;
-            bool isUpdated = Update(CurrentUser);
-            return isUpdated;
+            user.Password = newPassword;
+            _dbInstance.Update(user);
+            return true;
         }
 
     }
